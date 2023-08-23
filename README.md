@@ -16,7 +16,7 @@
 
 - 💻 I am currently working as a Full Stack Web Development Freelancer.
 - 💬 Ask me about **_MERN-stack, React, NodeJS, wordpress, PHP, Python, Java & their frameworks_**
-- 📄 Please visit [https://www.brightestWeb.com](https://www.brightestWeb.com)
+- 📄 Please visit [https://www.johnlegend.com](https://www.johnlegnd.com)
 
 ## Let's Connect <img src="https://media.giphy.com/media/jOz35yxbuhvVQDKrce/giphy.gif" height="27px" width="25px">
 
