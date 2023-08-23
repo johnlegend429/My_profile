@@ -9,7 +9,7 @@
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=johnlegned429&label=Profile%20views&color=0e75b6&style=flat" alt="johnlegend429" />
       <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/johnlegend429?style=social"> 
-      <img alt="GitHub followers" src="https://img.shields.io/github/followers/BrightestWeb?style=social">
+      <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnlegend429?style=social">
 </div>
 
 ## Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
