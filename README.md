@@ -7,8 +7,8 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=BrightestWeb&label=Profile%20views&color=0e75b6&style=flat" alt="BrightestWeb" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/BrightestWeb?style=social"> 
+      <img src="https://komarev.com/ghpvc/?username=johnlegned429&label=Profile%20views&color=0e75b6&style=flat" alt="johnlegend429" />
+      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/johnlegend429?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/BrightestWeb?style=social">
 </div>
 
