@@ -8,13 +8,13 @@
 
 <div align="center">
       <img src="https://komarev.com/ghpvc/?username=johnlegned429&label=Profile%20views&color=0e75b6&style=flat" alt="johnlegend429" />
-      <img alt="GitHub Org's stars" src="https://img.shields.io/github/stars/johnlegend429?style=social"> 
+      <img alt="GitHub John's stars" src="https://img.shields.io/github/stars/johnlegend429?style=social"> 
       <img alt="GitHub followers" src="https://img.shields.io/github/followers/johnlegend429?style=social">
 </div>
 
 ## Who am I <img src="https://media.giphy.com/media/pDh3IDoUswmZrqdRip/giphy.gif" height="27px" width="25px">
 
-- 💻 I am currently working as a Full Stack Web Development Freelancer.
+- 💻 I am currently working as a Full Stack Web Development, Web Scraping Freelancer.
 - 💬 Ask me about **_MERN-stack, React, NodeJS, wordpress, PHP, Python, Java & their frameworks_**
 - 📄 Please visit [https://www.johnlegend.com](https://www.johnlegnd.com)
 
@@ -123,7 +123,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ## Overview
-Web Developer:
+Web Developer and Web Scraping expert:
 👋 Welcome to my GitHub profile! I'm a passionate web developer with expertise in front-end and back-end development. I specialize in creating visually appealing and user-friendly websites using HTML, CSS, JavaScript, and various frameworks. I love staying up-to-date with the latest web technologies and always strive to deliver high-quality and responsive web solutions. Check out my repositories to explore my projects and feel free to reach out if you have any questions or collaboration ideas!
 
 ArcGIS Professor:
