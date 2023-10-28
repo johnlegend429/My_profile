@@ -248,7 +248,7 @@ Elastic Search, Nginx, Redis, Memcache
       <!-- $10+/month -->
       <!-- <td>
         <div align="center">
-          <a href="https://github.com/jesterb0206"><img src="https://github.com/jesterb0206.png" alt="@jesterb0206" width="52" /></a>
+          <a href="https://github.com/johnlegend429"><img src="https://github.com/johnlegend429.png" alt="@johnlegend429" width="52" /></a>
           <br />
           <a align="center" href="https://github.com/jesterb0206"><b>Bradley Jester</b></a>
         </b>
